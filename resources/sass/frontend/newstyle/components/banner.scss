@@ -1,0 +1,35 @@
+@import "../variables";
+
+.banner {
+  margin: 22px 0;
+  height: 86px;
+  border-radius: 14px;
+  background: $blue;
+  color: #fff;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  padding: 0 18px;
+  overflow: hidden;
+  position: relative;
+}
+
+.banner__tag {
+  font-size: 12px;
+  opacity: 0.9;
+  font-weight: 600;
+}
+
+.banner__center { text-align: center; }
+
+.banner__title {
+  font-size: 22px;
+  font-weight: 900;
+  letter-spacing: 0.02em;
+}
+
+.banner__subtitle {
+  font-size: 12px;
+  opacity: 0.9;
+  margin-top: 4px;
+}

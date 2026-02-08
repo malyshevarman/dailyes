@@ -1,0 +1,26 @@
+// Сюда стили
+.form-control::-webkit-input-placeholder {color:#bfbfbf;}
+.form-control::-moz-placeholder          {color:#bfbfbf;}/* Firefox 19+ */
+.form-control:-moz-placeholder           {color:#bfbfbf;}/* Firefox 18- */
+.form-control:-ms-input-placeholder      {color:#bfbfbf;}
+// styles
+@import "./plugins/bootstrap.css";
+
+@import 'styles';
+
+@import "~owl.carousel/src/scss/owl.carousel";
+@import "~owl.carousel/src/scss/owl.theme.default";
+
+@import "./plugins/daterangepicker.css";
+
+@import 'responsive';
+
+@import "./plugins/bootstrap-slider.css";
+@import "./plugins/simplebar.css";
+
+.city-panel {
+  display: unset;
+}
+header .top-block__city-option {
+  display: unset;
+}

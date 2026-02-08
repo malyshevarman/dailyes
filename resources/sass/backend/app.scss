@@ -1,0 +1,27 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+// Dark mode ********* implement
+//@import "~bootswatch/dist/darkly/variables";
+
+// Bootstrap
+@import '../../../node_modules/bootstrap/scss/bootstrap';
+@import '../../../node_modules/bootstrap-vue/src/index.scss';
+
+// Icons
+@import '../../../node_modules/simple-line-icons/css/simple-line-icons.css';
+@import '../../../node_modules/@fortawesome/fontawesome-free/css/all.min.css';
+
+// Coreui
+@import '../../../node_modules/@coreui/coreui/dist/css/coreui.min.css';
+
+// multiselect
+@import "../../../node_modules/vue-multiselect/dist/vue-multiselect.min.css";
+
+// vue-croppa
+@import "~vue-croppa/dist/vue-croppa.min.css";
+
+// styles
+@import 'styles';

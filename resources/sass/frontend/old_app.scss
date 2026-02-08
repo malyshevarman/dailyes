@@ -1,0 +1,35 @@
+// Сюда стили
+@import '../../../node_modules/ant-design-vue/dist/antd.css';
+// styles
+@import "./plugins/bootstrap.css";
+
+@import 'styles';
+@import 'contacts-page';
+@import 'contact-ad-form';
+@import 'question-blog-form';
+
+
+
+@import 'businesspage-styles';
+
+@import "~owl.carousel/src/scss/owl.carousel";
+@import "~owl.carousel/src/scss/owl.theme.default";
+
+@import "./plugins/daterangepicker.css";
+
+@import 'responsive';
+
+@import "./plugins/bootstrap-slider.css";
+@import "./plugins/simplebar.css";
+@import "./plugins/suggestions.css";
+@import "~@fancyapps/fancybox/dist/jquery.fancybox.min.css";
+@import '~ant-design-vue/lib/modal/style/index.css';
+
+@import '../../../node_modules/swiper/swiper.css';
+
+.city-panel {
+  display: unset;
+}
+header .top-block__city-option {
+  display: unset;
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.393" height="18.393" viewBox="0 0 18.393 18.393">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.008" x2="0.5" y2="0.998" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e09b3d"/>
+      <stop offset="0.3" stop-color="#c74c4d"/>
+      <stop offset="0.6" stop-color="#c21975"/>
+      <stop offset="1" stop-color="#7024c4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="-0.451" y2="1.462" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" y1="-1.396" y2="6.586" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="instagram_копия_2" data-name="instagram — копия 2" transform="translate(0 0)">
+    <path id="Path_506" data-name="Path 506" d="M12.913,0H5.479A5.485,5.485,0,0,0,0,5.479v7.434a5.485,5.485,0,0,0,5.479,5.479h7.434a5.485,5.485,0,0,0,5.479-5.479V5.479A5.485,5.485,0,0,0,12.913,0Zm3.629,12.913a3.629,3.629,0,0,1-3.629,3.629H5.479A3.629,3.629,0,0,1,1.85,12.913V5.479A3.629,3.629,0,0,1,5.479,1.85h7.434a3.629,3.629,0,0,1,3.629,3.629v7.434Z" fill="url(#linear-gradient)"/>
+    <path id="Path_507" data-name="Path 507" d="M137.757,133a4.757,4.757,0,1,0,4.757,4.757A4.762,4.762,0,0,0,137.757,133Zm0,7.663a2.907,2.907,0,1,1,2.907-2.907A2.907,2.907,0,0,1,137.757,140.663Z" transform="translate(-128.561 -128.561)" fill="url(#linear-gradient-2)"/>
+    <circle id="Ellipse_24" data-name="Ellipse 24" cx="1.14" cy="1.14" r="1.14" transform="translate(12.822 3.335)" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>

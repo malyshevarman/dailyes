@@ -1,0 +1,45 @@
+@import "../variables";
+@import "../mixins";
+
+.search {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 44px 220px;
+  gap: 12px;
+  align-items: center;
+}
+
+.search__field {
+  height: 44px;
+  background: $white;
+  border: 1px solid $line;
+  border-radius: 12px;
+  padding: 0 14px;
+  @include center;
+  gap: 10px;
+}
+
+.search__input {
+  border: 0;
+  outline: none;
+  width: 100%;
+  font-size: 14px;
+  color: #111827;
+
+  &::placeholder { color: #9aa3b2; }
+}
+
+.search__btn {
+  width: 44px;
+  height: 44px;
+  border-radius: 12px;
+  padding: 0;
+}
+
+.search__map {
+  height: 44px;
+  border-radius: 12px;
+  font-size: 13px;
+  font-weight: 600;
+  gap: 10px;
+}

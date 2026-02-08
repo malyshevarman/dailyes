@@ -1,0 +1,78 @@
+@import "../variables";
+@import "../mixins";
+
+.info {
+  padding: 26px 0;
+}
+
+.info__grid {
+  display: grid;
+  grid-template-columns: 1fr 360px;
+  gap: 18px;
+  align-items: stretch;
+}
+
+.info__card {
+  background: $white;
+  border: 1px solid $line;
+  border-radius: 14px;
+  padding: 18px 20px;
+  box-shadow: 0 6px 14px rgba(15, 23, 42, 0.04);
+}
+
+.info__title {
+  margin: 0 0 12px;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  font-weight: 900;
+}
+
+.info__text {
+  margin: 0 0 10px;
+  color: #64748b;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.info__more {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 700;
+  font-size: 13px;
+  color: $blue;
+}
+
+.tg {
+  background: linear-gradient(135deg, #2f6bff 0%, #1f56dd 100%);
+  border-radius: 14px;
+  color: #fff;
+  position: relative;
+  overflow: hidden;
+  padding: 18px 18px;
+  display: grid;
+  grid-template-columns: 1fr 120px;
+  gap: 12px;
+}
+
+.tg__title {
+  margin: 0 0 10px;
+  font-size: 18px;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+}
+
+.tg__text {
+  margin: 0 0 14px;
+  font-size: 13px;
+  opacity: .92;
+  line-height: 1.35;
+}
+
+.tg__art {
+  border-radius: 16px;
+  background: rgba(255,255,255,.18);
+  border: 1px solid rgba(255,255,255,.22);
+}

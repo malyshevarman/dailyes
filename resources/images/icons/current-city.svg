@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="42.428" viewBox="0 0 116 42.428">
+  <g id="Group_2215" data-name="Group 2215" transform="translate(-104 -172)">
+    <g id="placeholder" transform="translate(98.049 172)">
+      <g id="Group_2214" data-name="Group 2214" transform="translate(46.848)">
+        <path id="Path_569" data-name="Path 569" d="M150.923,97.4a8.875,8.875,0,1,0,8.871,8.88A8.881,8.881,0,0,0,150.923,97.4Zm0,15.624a6.744,6.744,0,1,1,6.744-6.744A6.751,6.751,0,0,1,150.923,113.024Z" transform="translate(-133.788 -88.946)" fill="#375d80"/>
+        <path id="Path_570" data-name="Path 570" d="M63.983,0c-.2,0-.408,0-.608.009A17.131,17.131,0,0,0,47.152,20.354a5.43,5.43,0,0,0,.122.573A16.384,16.384,0,0,0,48.42,24.3C50.182,28.47,54.044,34.9,62.429,41.863a2.47,2.47,0,0,0,3.142,0C73.947,34.911,77.81,28.47,79.563,24.33a16.83,16.83,0,0,0,1.154-3.394c.052-.208.087-.382.113-.547A17.132,17.132,0,0,0,63.983,0ZM78.721,20.025c0,.017-.026.165-.087.434a15.614,15.614,0,0,1-1.024,3.012c-1.675,3.958-5.356,10.077-13.4,16.752a.351.351,0,0,1-.217.078.368.368,0,0,1-.217-.078c-8.046-6.684-11.735-12.8-13.419-16.787A14.952,14.952,0,0,1,49.34,20.45c-.052-.226-.078-.365-.087-.408,0-.017-.009-.035-.009-.052a15.286,15.286,0,0,1-.2-4.314A15.013,15.013,0,0,1,79,17.143,15.573,15.573,0,0,1,78.721,20.025Z" transform="translate(-46.848)" fill="#375d80"/>
+      </g>
+    </g>
+    <g id="Group_558" data-name="Group 558" transform="translate(-559 -463.93)">
+      <rect id="Rectangle_68" data-name="Rectangle 68" width="30" height="2" rx="1" transform="translate(749 647)" fill="#375d80"/>
+      <rect id="Rectangle_69" data-name="Rectangle 69" width="20" height="2" rx="1" transform="translate(749 654)" fill="#375d80"/>
+      <rect id="Rectangle_70" data-name="Rectangle 70" width="12" height="2" rx="1" transform="translate(749 661)" fill="#375d80"/>
+    </g>
+    <g id="Group_559" data-name="Group 559" transform="translate(-645 -463.93)">
+      <rect id="Rectangle_68-2" data-name="Rectangle 68" width="30" height="2" rx="1" transform="translate(749 647)" fill="#375d80"/>
+      <rect id="Rectangle_69-2" data-name="Rectangle 69" width="20" height="2" rx="1" transform="translate(759 654)" fill="#375d80"/>
+      <rect id="Rectangle_70-2" data-name="Rectangle 70" width="12" height="2" rx="1" transform="translate(767 661)" fill="#375d80"/>
+    </g>
+  </g>
+</svg>

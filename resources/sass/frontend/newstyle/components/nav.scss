@@ -1,0 +1,31 @@
+@import "../variables";
+@import "../mixins";
+
+.subnav {
+  border-top: 1px solid $line;
+}
+
+.subnav__row {
+  height: 44px;
+  @include center;
+  gap: 18px;
+}
+
+.subnav__item {
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  font-size: 13px;
+  color: #334155;
+  font-weight: 500;
+  padding: 8px 10px;
+  border-radius: 10px;
+    flex: auto;
+
+  &:hover { background: #f3f5fb; }
+}
+
+.subnav__item--dd {
+  @include center;
+  gap: 8px;
+}

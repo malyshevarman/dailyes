@@ -1,0 +1,22 @@
+@import "../variables";
+
+.hero {
+  background: $bg;
+  padding: 34px 0 18px;
+}
+
+.hero__title {
+  margin: 0;
+  text-align: center;
+  font-size: 34px;
+  line-height: 1.15;
+  letter-spacing: -0.03em;
+  font-weight: 800;
+}
+
+.hero__subtitle {
+  margin: 10px 0 18px;
+  text-align: center;
+  font-size: 14px;
+  color: $muted;
+}

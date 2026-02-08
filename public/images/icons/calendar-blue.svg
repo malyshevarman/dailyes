@@ -1,0 +1,77 @@
+<svg id="calendar" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="Group_769" data-name="Group 769">
+    <g id="Group_768" data-name="Group 768">
+      <path id="Path_263" data-name="Path 263" d="M19.422,1.719H18.391V0H16.672V1.719H5.328V0H3.609V1.719H2.578A2.581,2.581,0,0,0,0,4.3V19.422A2.581,2.581,0,0,0,2.578,22H19.422A2.581,2.581,0,0,0,22,19.422V4.3A2.581,2.581,0,0,0,19.422,1.719Zm.859,17.7a.86.86,0,0,1-.859.859H2.578a.86.86,0,0,1-.859-.859V8.078H20.281Zm0-13.062H1.719V4.3a.86.86,0,0,1,.859-.859H3.609V5.156H5.328V3.438H16.672V5.156h1.719V3.438h1.031a.86.86,0,0,1,.859.859Z" fill="#137cd6"/>
+    </g>
+  </g>
+  <g id="Group_771" data-name="Group 771" transform="translate(3.535 9.768)">
+    <g id="Group_770" data-name="Group 770">
+      <rect id="Rectangle_175" data-name="Rectangle 175" width="1.953" height="1.953" fill="#137cd6"/>
+    </g>
+  </g>
+  <g id="Group_773" data-name="Group 773" transform="translate(6.626 9.768)">
+    <g id="Group_772" data-name="Group 772">
+      <rect id="Rectangle_176" data-name="Rectangle 176" width="1.953" height="1.953" fill="#137cd6"/>
+    </g>
+  </g>
+  <g id="Group_775" data-name="Group 775" transform="translate(10.023 9.768)">
+    <g id="Group_774" data-name="Group 774">
+      <rect id="Rectangle_177" data-name="Rectangle 177" width="1.953" height="1.953" fill="#137cd6"/>
+    </g>
+  </g>
+  <g id="Group_777" data-name="Group 777" transform="translate(13.421 9.768)">
+    <g id="Group_776" data-name="Group 776">
+      <rect id="Rectangle_178" data-name="Rectangle 178" width="1.953" height="1.953" fill="#137cd6"/>
+    </g>
+  </g>
+  <g id="Group_779" data-name="Group 779" transform="translate(16.512 9.768)">
+    <g id="Group_778" data-name="Group 778">
+      <rect id="Rectangle_179" data-name="Rectangle 179" width="1.953" height="1.953" fill="#137cd6"/>
+    </g>
+  </g>
+  <g id="Group_781" data-name="Group 781" transform="translate(3.535 13.166)">
+    <g id="Group_780" data-name="Group 780">
+      <rect id="Rectangle_180" data-name="Rectangle 180" width="1.953" height="1.953" fill="#137cd6"/>
+    </g>
+  </g>
+  <g id="Group_783" data-name="Group 783" transform="translate(6.626 13.166)">
+    <g id="Group_782" data-name="Group 782">
+      <rect id="Rectangle_181" data-name="Rectangle 181" width="1.953" height="1.953" fill="#137cd6"/>
+    </g>
+  </g>
+  <g id="Group_785" data-name="Group 785" transform="translate(10.023 13.166)">
+    <g id="Group_784" data-name="Group 784">
+      <rect id="Rectangle_182" data-name="Rectangle 182" width="1.953" height="1.953" fill="#137cd6"/>
+    </g>
+  </g>
+  <g id="Group_787" data-name="Group 787" transform="translate(13.421 13.166)">
+    <g id="Group_786" data-name="Group 786">
+      <rect id="Rectangle_183" data-name="Rectangle 183" width="1.953" height="1.953" fill="#137cd6"/>
+    </g>
+  </g>
+  <g id="Group_789" data-name="Group 789" transform="translate(3.535 16.564)">
+    <g id="Group_788" data-name="Group 788">
+      <rect id="Rectangle_184" data-name="Rectangle 184" width="1.953" height="1.953" fill="#137cd6"/>
+    </g>
+  </g>
+  <g id="Group_791" data-name="Group 791" transform="translate(6.626 16.564)">
+    <g id="Group_790" data-name="Group 790">
+      <rect id="Rectangle_185" data-name="Rectangle 185" width="1.953" height="1.953" fill="#137cd6"/>
+    </g>
+  </g>
+  <g id="Group_793" data-name="Group 793" transform="translate(10.023 16.564)">
+    <g id="Group_792" data-name="Group 792">
+      <rect id="Rectangle_186" data-name="Rectangle 186" width="1.953" height="1.953" fill="#137cd6"/>
+    </g>
+  </g>
+  <g id="Group_795" data-name="Group 795" transform="translate(13.421 16.564)">
+    <g id="Group_794" data-name="Group 794">
+      <rect id="Rectangle_187" data-name="Rectangle 187" width="1.953" height="1.953" fill="#137cd6"/>
+    </g>
+  </g>
+  <g id="Group_797" data-name="Group 797" transform="translate(16.512 13.166)">
+    <g id="Group_796" data-name="Group 796">
+      <rect id="Rectangle_188" data-name="Rectangle 188" width="1.953" height="1.953" fill="#137cd6"/>
+    </g>
+  </g>
+</svg>

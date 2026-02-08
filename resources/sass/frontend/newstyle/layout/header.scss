@@ -1,0 +1,94 @@
+@import "../variables";
+@import "../mixins";
+
+.header {
+}
+
+.header__row {
+    padding: 10px 0;
+    @include between;
+}
+
+.logo {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    width:89px;
+    height:52px;
+    background: url("../../../../images/logo.svg") 50% 50% no-repeat;
+    background-size: contain;
+}
+
+.logo__mark {
+    display: inline-flex;
+    padding: 6px 10px;
+    border: 2px solid $blue;
+    border-radius: 14px;
+    font-weight: 800;
+    color: $blue;
+    letter-spacing: -0.02em;
+}
+
+.header__menu {
+    @include center;
+    gap: 22px;
+    margin-left: 18px;
+    flex: 1;
+}
+
+.header__link {
+    background: transparent;
+    border: 0;
+    padding: 8px 0;
+    color: #1f2937;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.header__link--dd {
+    @include center;
+    gap: 8px;
+}
+
+.header__right {
+    @include center;
+    gap: 14px;
+}
+
+.header__icon {
+    width: 34px;
+    height: 34px;
+    border-radius: 10px;
+    border: 1px solid $line;
+    background: $white;
+    cursor: pointer;
+}
+
+.header__user {
+    @include center;
+    gap: 10px;
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+}
+
+.header__user-name {
+    font-size: 13px;
+    color: #111827;
+    font-weight: 600;
+    padding: 0 0 0 30px;
+    background: url("../../../../images/location.svg") 0% 50% no-repeat;
+    background-size: 20px;
+    text-decoration: none;    cursor: pointer;
+}
+
+.header__avatar {
+    width: 44px;
+    height: 44px;
+    border-radius: 0;
+    background: url("../../../../images/newuser.svg") 50% 50% no-repeat;
+    background-size: cover;
+    gap: 10px;
+    text-decoration: none;    cursor: pointer;
+}

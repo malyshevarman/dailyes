@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.4" height="18.4" viewBox="0 0 18.4 18.4">
+  <g id="round-add-button" transform="translate(0.2 0.2)">
+    <g id="Group_3" data-name="Group 3" transform="translate(0 0)">
+      <path id="Path_5" data-name="Path 5" d="M9,0a9,9,0,1,0,9,9A9.01,9.01,0,0,0,9,0ZM9,16.82A7.82,7.82,0,1,1,16.82,9,7.828,7.828,0,0,1,9,16.82Z" transform="translate(0 0)" fill="#fff" stroke="#fff" stroke-width="0.4"/>
+      <path id="Path_6" data-name="Path 6" d="M115.152,110.982h-2.986V108a.59.59,0,1,0-1.18,0v2.987H108a.59.59,0,0,0,0,1.18h2.986v2.986a.59.59,0,0,0,1.18,0v-2.986h2.987a.59.59,0,0,0,0-1.18Z" transform="translate(-102.576 -102.572)" fill="#fff" stroke="#fff" stroke-width="0.4"/>
+    </g>
+  </g>
+</svg>

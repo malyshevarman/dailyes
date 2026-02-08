@@ -1,0 +1,38 @@
+@import "../variables";
+
+.cookie {
+  position: fixed;
+  left: 18px;
+  bottom: 18px;
+  width: 320px;
+  background: #1f4fd6;
+  color: #fff;
+  border-radius: 14px;
+  padding: 14px;
+  box-shadow: $shadow;
+}
+
+.cookie__title {
+  font-weight: 800;
+  font-size: 13px;
+  margin-bottom: 6px;
+}
+
+.cookie__text {
+  font-size: 12px;
+  opacity: 0.9;
+  line-height: 1.35;
+}
+
+.cookie__close {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  width: 26px;
+  height: 26px;
+  border-radius: 10px;
+  border: 0;
+  background: rgba(255, 255, 255, 0.18);
+  color: #fff;
+  cursor: pointer;
+}

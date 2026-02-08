@@ -1,0 +1,20 @@
+<?php
+
+// Route::group([
+//     'namespace' => 'Category',
+// ], function () {
+//     /*
+//      * Additional
+//      */
+//     Route::group([
+//         'prefix' => 'category',
+//         'as' => 'category.',
+//     ], function () {
+
+//     });
+
+//     /*
+//      * Resource
+//      */
+//     Route::resource('category', 'CategoryController')->only(['index', 'create', 'edit']);
+// });

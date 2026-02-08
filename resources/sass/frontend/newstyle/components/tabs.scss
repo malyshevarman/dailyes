@@ -1,0 +1,32 @@
+@import "../variables";
+@import "../mixins";
+
+.tabs {
+  margin-top: 14px;
+  @include between;
+}
+
+.tabs__left {
+  @include center;
+  gap: 10px;
+}
+
+.tab {
+  height: 34px;
+  padding: 0 14px;
+  border-radius: 10px;
+  border: 1px solid $line;
+  background: $white;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+  color: #334155;
+
+  &:hover { background: #f3f5fb; }
+}
+
+.tab--active {
+  border-color: $blue;
+  background: #edf2ff;
+  color: $blue;
+}
